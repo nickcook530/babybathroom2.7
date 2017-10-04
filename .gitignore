@@ -1,0 +1,10 @@
+*.pyc
+.idea
+cache
+icons
+kivy2.7env
+testfiles
+blue_pin.png
+pink_pin.png
+start_flag.png
+plyerexample.py
